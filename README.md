@@ -6,7 +6,7 @@
 Criar um sistema de controle de aluguel livros em uma biblioteca. 
 Dados: 
 - um livro pode ter varias copias
-- uma copia só pode estar com uma pessoa ao mesmo tempo
+- uma copia não pode estar com mais de uma pessoa ao mesmo tempo
 
 Todos os campos são obrigatórios.
 ### Cadastro de Pessoa
